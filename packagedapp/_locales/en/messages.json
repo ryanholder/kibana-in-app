@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "Kibana in App",
+        "description": "The name of the application"
+    },
+    "appDescription": {
+        "message": "Kibana in Chrome Packaged App within CSP restrictions",
+        "description": "The description of the application"
+    }
+}
