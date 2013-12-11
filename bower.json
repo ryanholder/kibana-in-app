@@ -1,0 +1,28 @@
+{
+  "name": "kibana-in-app",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ryanholder/kibana-in-app",
+  "authors": [
+    "Ryan Holder <ryan@ryanholder.com>"
+  ],
+  "description": "Kibana in App",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.4",
+    "jquery": "~2.0.3",
+    "elastic.js": "~1.1.1",
+    "underscore": "~1.5.2",
+    "angular-route": "~1.2.4",
+    "angular-resource": "~1.2.4",
+    "angular-strap": "~0.7.8",
+    "angular-dragdrop": "~1.0.5",
+    "angular-bindonce": "~0.2.2",
+    "angular-sanitize": "~1.2.4"
+  }
+}
